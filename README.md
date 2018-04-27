@@ -16,3 +16,5 @@ This project was comprised in a group with me and 6 other people. Each student n
 ![Page four (stage 1) Render](https://github.com/kst4052/Storybook-Project/blob/master/page%204%20shaded%20render.jpg "Page four (stage 1) Render")
 ![Page four (stage 1) Wireframe Render](https://github.com/kst4052/Storybook-Project/blob/master/page%204%20render%20wireframe.jpg "Page four (stage 1) Wireframe Render")
 ![Page four completed](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20page%204%20complete.jpg "Page four completed")
+![Storybook Project completed Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20ccompleted.jpg "Storybook Project completed Render")
+![Storybook Project completed Wireframe Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20ccompleted%20wireframe.jpg "Storybook project completed wireframe render")
