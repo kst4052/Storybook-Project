@@ -5,3 +5,6 @@ This project was comprised in a group with me and 6 other people. Each student n
 ![Page one (stage 1) Side Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20page%201%20side.jpg "Page one (stage 1) Side Render")
 ![Page one (stage 1) Side Wireframe Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20page%201%20side%20wireframe.jpg "Page one (stage 1) Side Wireframe Render")
 ![Page one (stage 1) King Luma Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20king%20star.jpg "Page one (stage 1) King Luma Render")
+![Page two (stage 1) Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20king%20star.jpg "Page two (stage 1) Render")
+![Page two (stage 1) Wireframe Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20page%202%20wireframe.jpg "Page two (stage 1) Wireframe Render")
+![Pages one and two completed](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20pages%201%20and%202.jpg "Pages one and two completed")
