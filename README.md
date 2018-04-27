@@ -20,3 +20,5 @@ This is the animation of page three.
 ![Page four completed](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20page%204%20complete.jpg "Page four completed")
 ![Storybook Project completed Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20ccompleted.jpg "Storybook Project completed Render")
 ![Storybook Project completed Wireframe Render](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20ccompleted%20wireframe.jpg "Storybook project completed wireframe render")
+[![Storybook Completed Animation](https://github.com/kst4052/Storybook-Project/blob/master/storybook%20project%20ccompleted.jpg)](https://youtu.be/xaq76BavLu0) 
+Above is the completed animation for the whole project. 
